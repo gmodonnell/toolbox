@@ -16,5 +16,5 @@ Listed below are the people whose scripts or code I have
 directly added or modified for this repo so nobody gets 
 on my ass about 'stealing'.
 
-> helperScripts contains utility scripts from [SecAura](https://github.com/SecAuraYT)
+> webwrappers contains utility scripts from [SecAura](https://github.com/SecAuraYT)
 
