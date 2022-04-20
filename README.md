@@ -10,7 +10,7 @@ future. I am doing this because there are pieces of repos all
 across github that I like but not everything from everyone is 
 useful. 
 
-##Credits
+## Credits
 
 Listed below are the people whose scripts or code I have 
 directly added or modified for this repo so nobody gets 
