@@ -19,3 +19,5 @@ on my ass about 'stealing'.
 > webwrappers contains utility scripts from [SecAura](https://github.com/SecAuraYT).
 
 > webshells are straight up the webshells repo from [BlackArch](https://github.com/BlackArch/blackarch).
+
+> I'm assuming all the submodules are things you can check out on your own
